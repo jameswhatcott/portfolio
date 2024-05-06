@@ -7,7 +7,7 @@ a {
     padding: 50px;
 }
 
-img {
+#me {
     width: 220px;
     border-radius: 50%;
     padding-right: 25px;
@@ -15,4 +15,8 @@ img {
 
 .me {
     display: flex;
+}
+
+#app-1 {
+    width: 550px;
 }
