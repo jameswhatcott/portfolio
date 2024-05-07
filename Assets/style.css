@@ -17,10 +17,14 @@ header a {
     display: flex;
 }
 
-#app-1 {
+#appx {
     width: 550px;
 }
 
 img {
     width: 250px;
+}
+
+.app {
+    
 }
