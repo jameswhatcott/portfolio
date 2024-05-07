@@ -1,5 +1,7 @@
 header {
     text-align: center;
+    background-color: rgb(145, 234, 234);
+    padding: 10px
 }
 
 header a {
