@@ -1,7 +1,9 @@
 header {
     text-align: center;
     background-color: rgb(145, 234, 234);
-    padding: 10px
+    padding: 10px;
+    border-radius: 14%;
+
 }
 
 header a {
@@ -33,4 +35,12 @@ img {
 
 html {
     scroll-behavior: smooth;
+}
+
+
+.google {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
