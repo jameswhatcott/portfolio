@@ -1,14 +1,16 @@
 header {
     text-align: center;
-    background-color: rgb(145, 234, 234);
+    background-color: rgb(11, 45, 11);
     padding: 10px;
     border-radius: 14%;
+    color: white;
 
 }
 
 header a {
     text-decoration: underline;
     padding: 50px;
+    color: white;
 }
 
 #me {
