@@ -46,12 +46,26 @@ html {
   font-style: normal;
 }
 
-main {
+
+
+#about-me {
     margin: 0 auto;
     width: 1000px;
+    padding-bottom: 50px;
+
 }
 
 #contact-me {
     text-align: center;
-    padding-bottom: 70px;
+    background-color: rgb(11, 45, 11);
+    color: white;
+    margin-bottom: 70px;
+    padding: 20px;
+}
+
+#portfolio {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(223, 220, 220);
+    text-align: center;
 }
