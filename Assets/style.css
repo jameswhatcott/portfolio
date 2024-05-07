@@ -28,3 +28,7 @@ img {
 .app {
     
 }
+
+html {
+    scroll-behavior: smooth;
+}
