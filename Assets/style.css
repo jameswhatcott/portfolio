@@ -47,8 +47,6 @@ html {
 .google {
   font-family: "Source Code Pro", monospace;
   font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
 }
 
 
@@ -72,4 +70,36 @@ html {
     padding-bottom: 30px;
     background-color: rgb(223, 220, 220);
     text-align: center;
+}
+ 
+#app-1 img {
+    transition: transform 1s
+}
+
+
+#app-1 img:hover {
+    transform: scale(1.08);
+}
+
+#app-2 img {
+    transition: transform 1s
+}
+
+
+#app-2 img:hover {
+    transform: scale(1.08);
+}
+
+#app-3 img {
+    transition: transform 1s
+}
+
+
+#app-3 img:hover {
+    transform: scale(1.08);
+
+}
+
+h2 {
+    font-size: xx-large;
 }
