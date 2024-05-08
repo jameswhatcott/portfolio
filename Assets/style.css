@@ -58,6 +58,10 @@ html {
 
 }
 
+.me {
+    font-size: large;
+}
+
 #contact-me {
     text-align: center;
     background-color: rgb(11, 45, 11);
