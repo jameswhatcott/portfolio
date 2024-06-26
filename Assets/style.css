@@ -3,9 +3,21 @@ body {
     padding: 0;
 }
 
+@font-face {
+    font-family: CooperHewitt-Thin;
+    src: url("/Fonts/CooperHewitt-Thin.otf") format("truetype");
+}
+
+@font-face {
+    font-family: Aileron-Thin;
+    src: url("/Fonts/Aileron-Thin.otf") format("truetype");
+}
+
+
+
 header {
     text-align: center;
-    background-color: rgb(11, 45, 11);
+    background-color: rgb(12, 28, 134);
     padding: 10px;
     color: white;
 
@@ -42,13 +54,17 @@ html {
 
 
 .google {
-  font-family: "Source Code Pro", monospace;
-  font-optical-sizing: auto;
+    font-family: CooperHewitt-Thin;
+    font-size: 70px;
+}
+
+nav {
+    font-family: Aileron-Thin;
 }
 
 
-
 #about-me {
+    font-family: CooperHewitt-Thin;
     margin: 0 auto;
     width: 1000px;
     padding-bottom: 50px;
@@ -61,7 +77,7 @@ html {
 
 #contact-me {
     text-align: center;
-    background-color: rgb(11, 45, 11);
+    background-color: rgb(12, 28, 134);
     color: white;
     padding: 40px;
 }
@@ -103,4 +119,9 @@ html {
 
 h2 {
     font-size: xx-large;
+}
+
+p {
+    font-family: Aileron-Thin;
+    font-size: 17px;
 }
