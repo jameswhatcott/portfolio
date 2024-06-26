@@ -27,12 +27,9 @@ header a {
     display: flex;
 }
 
-#appx {
-    width: 550px;
-}
 
 img {
-    width: 250px;
+    width: 400px;
 }
 
 .app {
